@@ -1,0 +1,27 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.appBar  header {
+    display: block;
+    padding: 10px 24px;
+}
+
+.appBar header h6 {
+    display: inline-block;
+}
+
+.appBar h6 a {
+    margin-right: 20px;
+    color: #fff;
+}
